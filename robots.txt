@@ -1,0 +1,34 @@
+# Robots.txt for SAR Venture Ecosystems
+# This file helps search engines crawl and index the repository effectively
+
+User-agent: *
+Allow: /
+Allow: /tree/
+Allow: /blob/
+Allow: /issues/
+Allow: /pull/
+Disallow: /.git/
+Disallow: /.github/workflows/
+Disallow: /*?tab=
+Crawl-delay: 1
+
+# Google-specific rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing-specific rules
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex
+User-agent: Yandexbot
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://github.com/soumodip18/SAR_Ventue_Ecosystems/sitemap.xml
