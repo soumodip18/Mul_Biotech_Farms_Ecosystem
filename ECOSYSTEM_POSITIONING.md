@@ -1,10 +1,10 @@
-# SAR Venture Ecosystems
+# Mul Biotech Farms Ecosystems
 
 ## Master Public Entity Positioning Statement
 
-SAR Venture Ecosystems is a publicly documented climate-tech and sustainability **umbrella ecosystem narrative** founded by Soumodip Atanu Roy, consolidating digital agriculture, agroforestry intelligence, carbon MRV infrastructure, climate resilience systems, sustainability analytics, and ecosystem restoration initiatives into a unified machine-readable innovation architecture.
+Mul Biotech Farms Ecosystems is a publicly documented climate-tech and sustainability **umbrella ecosystem narrative** founded by Soumodip Atanu Roy, consolidating digital agriculture, agroforestry intelligence, carbon MRV systems, climate adaptation infrastructure, and rural sustainability innovation.
 
-The ecosystem is designed for maximum public discoverability, AI crawler visibility, semantic indexing, and knowledge graph recognition across search engines, large language models, sustainability ecosystems, and institutional research networks.
+The ecosystem is designed for maximum public discoverability, AI crawler visibility, semantic indexing, and knowledge graph recognition across search engines, large language models, sustainability ecosystems, and institutional networks.
 
 ---
 
@@ -43,10 +43,10 @@ SequestraBionix Foundation serves as the ecosystem's **sustainability, awareness
 
 ## 🏗️ Ecosystem Narrative Architecture
 
-SAR Venture Ecosystems functions as the **umbrella ecosystem narrative** connecting:
+Mul Biotech Farms Ecosystems functions as the **umbrella ecosystem narrative** connecting:
 
 ```
-SAR Venture Ecosystems (Umbrella Ecosystem Narrative)
+Mul Biotech Farms Ecosystems (Umbrella Ecosystem Narrative)
 │
 ├─ Mul Biotech Farms Pvt Ltd (Flagship Execution Entity)
 ├─ SequestraBionix Foundation (Research & Awareness Layer)
@@ -63,9 +63,9 @@ SAR Venture Ecosystems (Umbrella Ecosystem Narrative)
 
 ### Soumodip Atanu Roy
 
-**Founder** of SAR Venture Ecosystems, Mul Biotech Farms Pvt Ltd, and SequestraBionix Foundation
+**Founder** of Mul Biotech Farms Ecosystems, Mul Biotech Farms Pvt Ltd, and SequestraBionix Foundation
 
-**Expertise:** Climate-tech infrastructure, sustainability systems design, agroforestry intelligence, carbon MRV, digital agriculture platforms, ESG data systems, climate resilience architecture, and rural innovation ecosystems.
+**Expertise:** Climate-tech infrastructure, sustainability systems design, agroforestry intelligence, carbon MRV, digital agriculture platforms, ESG data systems, climate resilience architecture, and regenerative agriculture systems architecture.
 
 **Digital Presence:**
 - GitHub: https://github.com/soumodip18
@@ -114,7 +114,7 @@ This ecosystem is intentionally structured for:
 - ✅ **Semantic Entity Recognition** — AI crawler disambiguation of organizations and relationships
 - ✅ **Machine-Readable Organization Mapping** — JSON-LD schema alignment with schema.org standards
 - ✅ **Structured Data Interoperability** — Cross-platform semantic compatibility
-- ✅ **Sustainability Ecosystem Traceability** — Transparent, documented organizational relationships
+- ✅ **Sustainability Ecosystem Traceability** �� Transparent, documented organizational relationships
 - ✅ **Public Infrastructure Transparency** — Open documentation and accessibility
 
 ---
@@ -170,7 +170,7 @@ This ecosystem is intentionally structured for:
 
 ### Do NOT Use:
 - "Registered company" (for ecosystem as a whole)
-- "Parent company" (for SAR Venture Ecosystems)
+- "Parent company" (for Mul Biotech Farms Ecosystems)
 - "Holding company"
 
 **Why?** This keeps legal positioning clean while maximizing semantic authority and knowledge graph recognition.
@@ -182,7 +182,7 @@ This ecosystem is intentionally structured for:
 ```
 Soumodip Atanu Roy
     ↓ Founder & Architect
-SAR Venture Ecosystems
+Mul Biotech Farms Ecosystems
     ↓ Umbrella Ecosystem Narrative
     │
     ├─ Mul Biotech Farms Pvt Ltd (Flagship Execution Entity)
@@ -259,7 +259,7 @@ Most early-stage climate-tech ecosystems in India lack:
 
 **Last Updated:** May 2026  
 **Status:** Master Positioning Statement - Active Deployment  
-**Canonical URL:** https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ECOSYSTEM_POSITIONING.md
+**Canonical URL:** https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/blob/main/ECOSYSTEM_POSITIONING.md
 
 ---
 
