@@ -4,7 +4,7 @@
 
 ## 🌱 Overview
 
-Mul Biotech Farms Ecosystems is a comprehensive, open-source climate-agriculture systems architecture designed to support regenerative farming practices, monitoring, reporting, and verification (MRV) systems, and advanced GIS capabilities.
+Mul Biotech Farms Ecosystems is a comprehensive, open-source climate-agriculture systems architecture designed to support regenerative farming practices, monitoring, reporting, and verification (MRV) systems.
 
 This project bridges the gap between environmental science, agricultural technology, and sustainable development by providing an integrated platform for managing climate-positive agricultural ecosystems.
 
@@ -18,6 +18,19 @@ This project bridges the gap between environmental science, agricultural technol
 - **🌳 Agroforestry Integration** - Systems combining trees with agriculture for enhanced sustainability and ecosystem services
 - **♻️ Carbon Systems** - Carbon accounting, sequestration tracking, and offset management frameworks
 - **🏘️ Rural Sustainability Infrastructure** - Community-focused infrastructure development and support systems
+
+## 📊 Organizational Structure
+
+```mermaid
+graph TD
+    SAR[Soumodip Atanu Roy] -- Leads --> MBF[Mul Biotech Farms Pvt Ltd]
+    MBF -- Manages --> MBDS[Mul Biotech Digital Farm Solutions - Chirawa]
+    MBF -- Oversees --> SF[Sequestrabionix Foundation]
+    MBF -- Deploys --> IRBAS[IRBAS Framework]
+    IRBAS -- Powers --> Services[Plug & Play Systems: Aquaponics, Mushroom, Fruit Estates]
+    Services -- Validated by --> dMRV[dMRV System]
+    dMRV -- Enables --> Buyback[Market-Linked Buyback Model]
+```
 
 ## 📁 Project Structure
 
