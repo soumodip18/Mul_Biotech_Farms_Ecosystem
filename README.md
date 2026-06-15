@@ -4,9 +4,9 @@
 
 ## 🌱 Overview
 
-Mul Biotech Farms Ecosystems is a comprehensive, open-source climate-agriculture systems architecture designed to support regenerative farming practices, monitoring, reporting, and verification (MRV), GIS intelligence, agroforestry integration, and sustainable rural development.
+Mul Biotech Farms Ecosystems is a comprehensive, open-source climate-agriculture systems architecture designed to support regenerative farming practices, monitoring, reporting, and verification (MRV) systems, and advanced GIS capabilities.
 
-This project bridges the gap between environmental science, agricultural technology, and sustainable development by providing an integrated platform for managing climate-positive agricultural ecosystems. We're committed to supporting farmers, researchers, and sustainability professionals in building a more regenerative food system.
+This project bridges the gap between environmental science, agricultural technology, and sustainable development by providing an integrated platform for managing climate-positive agricultural ecosystems.
 
 **Keywords:** Regenerative Agriculture • Sustainable Farming • Climate Positive • MRV Systems • GIS • Carbon Accounting • Agroforestry • Rural Sustainability
 
@@ -22,7 +22,7 @@ This project bridges the gap between environmental science, agricultural technol
 ## 📁 Project Structure
 
 ```
-SAR_Ventue_Ecosystems/
+Mul_Biotech_Farms_Ecosystem/
 ├── README.md                    # Project overview and documentation
 ├── robots.txt                   # Search engine crawler guidance
 ├── sitemap.xml                  # XML sitemap for search engines
@@ -56,8 +56,8 @@ SAR_Ventue_Ecosystems/
 
 ```bash
 # Clone the repository
-git clone https://github.com/soumodip18/SAR_Ventue_Ecosystems.git
-cd SAR_Ventue_Ecosystems
+git clone https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem.git
+cd Mul_Biotech_Farms_Ecosystem
 
 # (Optional) Create a virtual environment
 python -m venv venv
@@ -94,7 +94,7 @@ A global ecosystem where regenerative agriculture is the standard practice, supp
 ## 📋 Audit & Compliance
 
 **Latest Audit Report:** May 2026  
-**Report Location:** [View Audit Report](./AUDIT_REPORT.md) | [GitHub Issue #1](https://github.com/soumodip18/SAR_Ventue_Ecosystems/issues/1)
+**Report Location:** [View Audit Report](./AUDIT_REPORT.md) | [GitHub Issue #1](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/issues/1)
 
 For detailed audit findings, compliance metrics, and recommendations, please refer to the [May 2026 Audit Report](./AUDIT_REPORT.md).
 
@@ -107,8 +107,8 @@ We welcome contributions from the community! Whether you're interested in:
 - 🐛 Bug reports and feature suggestions
 
 Please feel free to:
-1. Open an [Issue](https://github.com/soumodip18/SAR_Ventue_Ecosystems/issues) for bugs or feature requests
-2. Submit a [Pull Request](https://github.com/soumodip18/SAR_Ventue_Ecosystems/pulls) with improvements
+1. Open an [Issue](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/issues) for bugs or feature requests
+2. Submit a [Pull Request](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/pulls) with improvements
 3. Review our [Contributing Guidelines](./CONTRIBUTING.md) (if available)
 
 ## 📄 License
@@ -122,8 +122,8 @@ This means the project is in the public domain, and you are free to use, modify,
 For more information about this project:
 
 - **GitHub:** [@soumodip18](https://github.com/soumodip18)
-- **Repository:** [SAR_Ventue_Ecosystems](https://github.com/soumodip18/SAR_Ventue_Ecosystems)
-- **Issues:** [Report issues or request features](https://github.com/soumodip18/SAR_Ventue_Ecosystems/issues)
+- **Repository:** [Mul Biotech Farms Ecosystem](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem)
+- **Issues:** [Report issues or request features](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/issues)
 
 ## 🗺️ Related Links
 
@@ -137,6 +137,6 @@ For more information about this project:
 **Project Status:** Active Development  
 **Last Updated:** May 2026  
 **License:** CC0 1.0 Universal  
-**Repository:** https://github.com/soumodip18/SAR_Ventue_Ecosystems
+**Repository:** https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem
 
 **Tags:** #regenerative-agriculture #climate-action #sustainability #open-source #gis #mrv #carbon-accounting #agroforestry #sustainable-farming
