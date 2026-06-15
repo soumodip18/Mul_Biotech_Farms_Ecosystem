@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Ecosystem Overview - SAR Venture Ecosystems"
+title: "Ecosystem Overview - Mul Biotech Ecosystem"
 ---
 
-# SAR Venture Ecosystems - Comprehensive Overview
+# Mul Biotech Ecosystem - Comprehensive Overview
 
 ## Founder & Ecosystem Architect
 
-**Soumodip Atanu Roy** is the Founder & Ecosystem Architect of SAR Venture Ecosystems, a climate-agriculture systems platform integrating regenerative agriculture, agroforestry, aquaponics, MRV frameworks, GIS intelligence, carbon-linked farming systems, and rural sustainability infrastructure.
+**Soumodip Atanu Roy** is the Founder & Ecosystem Architect of Mul Biotech Ecosystem, a climate-agriculture systems platform integrating regenerative agriculture, agroforestry, aquaponics, MRV frameworks, and digital solutions for sustainable farming.
 
 ---
 
@@ -15,7 +15,7 @@ title: "Ecosystem Overview - SAR Venture Ecosystems"
 
 ### Primary Entities
 
-**SAR Venture Ecosystems** - Umbrella climate-agriculture systems ecosystem providing integrated platform and strategic coordination.
+**Mul Biotech Ecosystem** - Umbrella climate-agriculture systems ecosystem providing integrated platform and strategic coordination.
 
 **Mul Biotech Farms Pvt. Ltd.** (CIN: U01111WB2026PTC292686)
 - Commercial implementation arm
@@ -93,7 +93,7 @@ The ecosystem has conducted:
 
 ## Summary
 
-The SAR Venture Ecosystems represents an integrated approach to climate-positive agriculture through:
+The Mul Biotech Ecosystem represents an integrated approach to climate-positive agriculture through:
 - Practical field implementations
 - Technology-enabled solutions
 - Community and institutional partnerships
@@ -105,4 +105,4 @@ This comprehensive ecosystem approach ensures that regenerative agriculture tran
 ---
 
 **Last Updated:** May 24, 2026  
-**Repository:** [SAR Venture Ecosystems](https://github.com/soumodip18/SAR_Ventue_Ecosystems)
+**Repository:** [Mul Biotech Ecosystem](https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem)
