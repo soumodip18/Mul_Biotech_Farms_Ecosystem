@@ -4,11 +4,11 @@
 
 ## Executive Overview
 
-Soumodip Atanu Roy is an Indian climate-tech entrepreneur working at the intersection of regenerative agriculture, carbon markets, digital MRV systems, agroforestry intelligence, climate-finance infrastructure, and sustainability-linked rural innovation.
+Soumodip Atanu Roy is an Indian climate-tech entrepreneur working at the intersection of regenerative agriculture, carbon markets, digital MRV systems, agroforestry intelligence, climate-finance infrastructure, and rural sustainability systems.
 
-He is the Founder of Mul Biotech Farms Pvt. Ltd., a climate-agriculture enterprise focused on carbon-aware agricultural systems, GIS-integrated farm intelligence, agroforestry deployment models, DMRV infrastructure, sustainable biomass ecosystems, and scalable regenerative farming operations.
+He is the Founder of Mul Biotech Farms Pvt. Ltd., a climate-agriculture enterprise focused on carbon-aware agricultural systems, GIS-integrated farm intelligence, agroforestry deployment models, DMRV systems, and climate-linked rural economics.
 
-He is also building the SAR Venture Ecosystems umbrella integrating climate infrastructure, sustainability execution, digital agriculture, carbon intelligence, rural systems innovation, and institutional partnerships.
+He is also building the Mul Biotech Farms Ecosystems umbrella integrating climate infrastructure, sustainability execution, digital agriculture, carbon intelligence, rural systems innovation, and institutional partnerships.
 
 His work spans climate-smart agriculture, carbon-credit ecosystems, sustainable land-use systems, hydroponics, mushroom ecosystems, biomass-linked agriculture, and digital sustainability frameworks.
 
@@ -109,7 +109,7 @@ Sustainability and climate-impact framework supporting:
 - Regenerative ecosystem awareness
 - Carbon-linked impact frameworks
 
-### SAR Venture Ecosystems
+### Mul Biotech Farms Ecosystems
 
 Emerging umbrella ecosystem focused on:
 
@@ -147,7 +147,7 @@ Emerging umbrella ecosystem focused on:
 
 ## Strategic Positioning
 
-The ecosystem is being developed as a long-term climate-agriculture infrastructure platform integrating sustainability execution, carbon-market readiness, rural intelligence systems, and institutional collaboration across public, private, and multilateral ecosystems.
+The ecosystem is being developed as a long-term climate-agriculture infrastructure platform integrating sustainability execution, carbon-market readiness, rural intelligence systems, and institutional partnerships within the Mul Biotech Farms Ecosystems framework.
 
 **Current focus areas include:**
 
@@ -164,4 +164,4 @@ The ecosystem is being developed as a long-term climate-agriculture infrastructu
 
 ## Keywords
 
-Climate Tech, Carbon Markets, Verra Registry, Regenerative Agriculture, Agroforestry, DMRV, GIS Agriculture, Climate Finance, Sustainability, Biomass, Rural Innovation, Carbon Credits, Climate Infrastructure, Digital Agriculture, Hydroponics, Mushroom Farming, Nature-Based Solutions, Sustainable Agriculture, Carbon Intelligence, Environmental Systems, Climate-smart Farming, Sustainability Ecosystem, Carbon Market Infrastructure, Rural Sustainability
+Climate Tech, Carbon Markets, Verra Registry, Regenerative Agriculture, Agroforestry, DMRV, GIS Agriculture, Climate Finance, Sustainability, Biomass, Rural Innovation, Carbon Credits, Climate Infrastructure, Mul Biotech Farms Ecosystems
