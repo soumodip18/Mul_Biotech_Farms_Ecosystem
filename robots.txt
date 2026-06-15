@@ -1,4 +1,4 @@
-# Robots.txt for SAR Venture Ecosystems
+# Robots.txt for Mul Biotech Farms Ecosystem
 # This file helps search engines crawl and index the repository effectively
 
 User-agent: *
@@ -7,10 +7,12 @@ Allow: /tree/
 Allow: /blob/
 Allow: /issues/
 Allow: /pull/
+Allow: /discussions/
+Allow: /releases/
 Disallow: /.git/
 Disallow: /.github/workflows/
 Disallow: /*?tab=
-Crawl-delay: 1
+Crawl-delay: 0
 
 # Google-specific rules
 User-agent: Googlebot
@@ -20,15 +22,22 @@ Crawl-delay: 0
 # Bing-specific rules
 User-agent: Bingbot
 Allow: /
-Crawl-delay: 1
+Crawl-delay: 0
 
 # Yandex
 User-agent: Yandexbot
 Allow: /
+Crawl-delay: 0
 
 # DuckDuckGo
 User-agent: DuckDuckBot
 Allow: /
+Crawl-delay: 0
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 0
 
 # Sitemap location
-Sitemap: https://github.com/soumodip18/SAR_Ventue_Ecosystems/sitemap.xml
+Sitemap: https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/sitemap.xml
