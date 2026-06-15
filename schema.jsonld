@@ -6,12 +6,12 @@
       "@id": "https://github.com/soumodip18#soumodip-atanu-roy",
       "name": "Soumodip Atanu Roy",
       "jobTitle": "Founder",
-      "description": "Founder of SAR Venture Ecosystems, Mul Biotech Farms Pvt Ltd and SequestraBionix Foundation working across climate-tech, agroforestry, sustainability intelligence, carbon MRV and digital agriculture systems.",
+      "description": "Founder of Mul Biotech Farms Ecosystems, Mul Biotech Farms Pvt Ltd and SequestraBionix Foundation working across climate-tech, agroforestry, sustainability intelligence, carbon MRV and regenerative systems",
       "affiliation": [
         {
           "@type": "Organization",
-          "name": "SAR Venture Ecosystems",
-          "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+          "name": "Mul Biotech Farms Ecosystems",
+          "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
         },
         {
           "@type": "Corporation",
@@ -44,14 +44,14 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems",
-      "name": "SAR Venture Ecosystems",
+      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems",
+      "name": "Mul Biotech Farms Ecosystems",
       "alternateName": [
-        "SAR Ventures",
-        "SAR Ecosystem"
+        "Mul Biotech Farms",
+        "Mul Biotech Ecosystem"
       ],
       "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems",
-      "description": "SAR Venture Ecosystems is a climate-tech and sustainability ecosystem narrative founded by Soumodip Atanu Roy integrating digital agriculture, carbon MRV, agroforestry intelligence, climate resilience systems and sustainability infrastructure initiatives.",
+      "description": "Mul Biotech Farms Ecosystems is a climate-tech and sustainability ecosystem narrative founded by Soumodip Atanu Roy integrating digital agriculture, carbon MRV, agroforestry intelligence and regenerative systems infrastructure",
       "founder": {
         "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
       },
@@ -114,7 +114,7 @@
         "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/raw/main/assets/sar-ecosystem-logo.png"
       },
       "mainEntity": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       }
     },
     {
@@ -126,13 +126,13 @@
         "Mul Biotech"
       ],
       "url": "https://mulbiotech.com",
-      "description": "Flagship climate-tech and digital agriculture company operating across agroforestry intelligence, sustainability systems, carbon MRV, rural resilience and climate innovation infrastructure.",
+      "description": "Flagship climate-tech and digital agriculture company operating across agroforestry intelligence, sustainability systems, carbon MRV, rural resilience and climate innovation infrastructure",
       "foundingDate": "2023",
       "founder": {
         "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
       },
       "parentOrganization": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "brand": [
         {
@@ -182,7 +182,7 @@
         "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
       },
       "parentOrganization": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "funder": {
         "@id": "https://mulbiotech.com#mul-biotech-farms"
@@ -191,7 +191,7 @@
         "@id": "https://mulbiotech.com#mul-biotech-farms"
       },
       "memberOf": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "knowsAbout": [
         "Carbon Sequestration Research",
@@ -213,13 +213,13 @@
       "name": "DMRV Dashboard",
       "alternateName": "Digital MRV Platform",
       "url": "https://dmrv.dashboard",
-      "description": "Digital MRV and sustainability intelligence platform for agroforestry, carbon accounting, GIS analytics and climate resilience systems with real-time monitoring and verification capabilities.",
+      "description": "Digital MRV and sustainability intelligence platform for agroforestry, carbon accounting, GIS analytics and climate resilience systems with real-time monitoring and verification capabilities",
       "applicationCategory": "BusinessApplication",
       "provider": {
         "@id": "https://mulbiotech.com#mul-biotech-farms"
       },
       "parentOrganization": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "featureList": [
         "Real-time Carbon MRV Tracking",
@@ -257,7 +257,7 @@
         "@id": "https://mulbiotech.com#mul-biotech-farms"
       },
       "parentOrganization": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "keywords": [
         "Agroforestry",
@@ -278,7 +278,7 @@
         "@id": "https://mulbiotech.com#mul-biotech-farms"
       },
       "parentOrganization": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "keywords": [
         "Climate Adaptation",
@@ -292,10 +292,10 @@
     {
       "@type": "WebPage",
       "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ORGANIZATION_STRUCTURE.md",
-      "name": "SAR Venture Ecosystems Organization Structure",
-      "description": "Canonical entity reconciliation and organizational hierarchy documentation for SAR Venture Ecosystems umbrella ecosystem.",
+      "name": "Mul Biotech Farms Ecosystems Organization Structure",
+      "description": "Canonical entity reconciliation and organizational hierarchy documentation for Mul Biotech Farms Ecosystems umbrella ecosystem.",
       "about": {
-        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#mul-biotech-farms-ecosystems"
       },
       "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ORGANIZATION_STRUCTURE.md",
       "isPartOf": {
