@@ -1,11 +1,11 @@
-# Contributing to SAR Venture Ecosystems
+# Contributing to Mul Biotech Farms Ecosystem
 
-Thank you for your interest in contributing to the SAR Venture Ecosystems project! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to the Mul Biotech Farms Ecosystem project! This document provides guidelines and instructions for contributing.
 
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/your-username/SAR_Ventue_Ecosystems.git`
+2. Clone your fork: `git clone https://github.com/your-username/Mul_Biotech_Farms_Ecosystem.git`
 3. Create a new branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Commit with clear messages: `git commit -m 'Add feature: description'`
