@@ -1,4 +1,4 @@
-# SAR Venture Ecosystems - Organization Structure
+# Mul Biotech Farms Ecosystems - Organization Structure
 
 ## Entity Reconciliation & Ecosystem Architecture
 
@@ -6,8 +6,8 @@
 
 ## 🔍 Master Identity
 
-**Organization Name:** SAR Venture Ecosystems  
-**Alternate Names:** SAR Ventures, SAR Ecosystem  
+**Organization Name:** Mul Biotech Farms Ecosystems  
+**Alternate Names:** Mul Biotech Farms, Mul Ecosystem  
 **Founder & Chairman:** Soumodip Atanu Roy  
 **Entity Type:** Umbrella Innovation Ecosystem  
 **Headquarters:** India  
@@ -36,7 +36,7 @@
 
 ### Level 1: Umbrella Ecosystem
 ```
-SAR Venture Ecosystems
+Mul Biotech Farms Ecosystems
 │
 ├── Primary Operating Entity
 ├── Research & Innovation Foundation
@@ -124,10 +124,10 @@ SAR Venture Ecosystems
 ## 🎯 Core Mission & Vision
 
 ### Mission
-Develop and operationalize integrated climate-tech, agroforestry, and sustainability infrastructure systems that enable regenerative agriculture, transparent carbon MRV, and climate resilience across agricultural ecosystems globally, with primary focus on small-holder farmer empowerment in India.
+Develop and operationalize integrated climate-tech, agroforestry, and sustainability infrastructure systems that enable regenerative agriculture, transparent carbon MRV, and climate resilience across [...]
 
 ### Vision
-A globally recognized ecosystem bridging climate science, agricultural innovation, and digital infrastructure, where transparent, data-driven systems enable verifiable climate action and sustainable livelihoods at scale.
+A globally recognized ecosystem bridging climate science, agricultural innovation, and digital infrastructure, where transparent, data-driven systems enable verifiable climate action and sustaina[...]
 
 ### Core Values
 - **Transparency:** Public documentation, open methodologies, traceable impact
@@ -141,7 +141,7 @@ A globally recognized ecosystem bridging climate science, agricultural innovatio
 ## 📈 Ecosystem Map
 
 ```
-SAR Venture Ecosystems (Umbrella)
+Mul Biotech Farms Ecosystems (Umbrella)
 │
 ├─ Research & Standards
 │  └─ SequestraBionix Foundation
