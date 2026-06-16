@@ -9,15 +9,22 @@ Allow: /issues/
 Allow: /pull/
 Allow: /discussions/
 Allow: /releases/
+Allow: /wiki/
+Allow: /projects/
 Disallow: /.git/
 Disallow: /.github/workflows/
 Disallow: /*?tab=
+Disallow: /*.json$
+Disallow: /search
+Disallow: /filter
 Crawl-delay: 0
+Request-rate: 30/1s
 
 # Google-specific rules
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 0
+Request-rate: 100/1s
 
 # Bing-specific rules
 User-agent: Bingbot
