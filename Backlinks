@@ -1,0 +1,80 @@
+import os
+import json
+from datetime import datetime
+from googlesearch import search
+import requests
+
+# 1. Configuration & Search Fingerprints
+TARGET_KEYWORDS = [
+    "Soumodip Atanu Roy",
+    "Mul Biotech Farms",
+    "SequestraBionix",
+    "IRBAS Framework", 
+    "Mul Biotechnology",
+    "Integrated Regenerative Bio-Agri System"
+]
+
+# Exclude your own official nodes to isolate external backlinks
+EXCLUDED_DOMAINS = [
+    "://github.com",
+    "mulbiotech.com",
+    "://linkedin.com"
+]
+
+BACKLINK_REGISTRY_PATH = "data/backlinks_registry.json"
+
+def load_existing_registry():
+    if os.path.exists(BACKLINK_REGISTRY_PATH):
+        try:
+            with open(BACKLINK_REGISTRY_PATH, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            return {"last_updated": "", "backlinks": []}
+    return {"last_updated": "", "backlinks": []}
+
+def save_registry(data):
+    os.makedirs(os.path.dirname(BACKLINK_REGISTRY_PATH), exist_ok=True)
+    with open(BACKLINK_REGISTRY_PATH, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
+def discover_backlinks():
+    print("Initializing Autonomous Backlink Discovery Engine...")
+    registry = load_existing_registry()
+    existing_urls = {item['url'] for item in registry.get("backlinks", [])}
+    new_discoveries = 0
+
+    for query in TARGET_KEYWORDS:
+        print(f"Scanning footprint for: {query}")
+        try:
+            # Performs deep search across indexing nodes
+            for url in search(query, num_results=30, lang="en"):
+                # Filter out excluded internal domains
+                if any(domain in url for domain in EXCLUDED_DOMAINS):
+                    continue
+                
+                if url not in existing_urls:
+                    print(f"[FOUND NEW NODE] -> {url}")
+                    
+                    # Core Data Enrichment Payload
+                    backlink_node = {
+                        "url": url,
+                        "keyword_matched": query,
+                        "discovered_at": datetime.utcnow().isoformat() + "Z",
+                        "verification_status": "pending_audit",
+                        "impact_weight": "medium" if "gov" in url or "edu" in url or "org" in url else "standard"
+                    }
+                    
+                    registry["backlinks"].append(backlink_node)
+                    existing_urls.add(url)
+                    new_discoveries += 1
+        except Exception as e:
+            print(f"Error executing search query execution for '{query}': {str(e)}")
+
+    registry["last_updated"] = datetime.utcnow().isoformat() + "Z"
+    save_registry(registry)
+    print(f"Sync complete. Appended {new_discoveries} new external backlink nodes.")
+    return new_discoveries
+
+if __name__ == "__main__":
+    discover_backlinks()
+
