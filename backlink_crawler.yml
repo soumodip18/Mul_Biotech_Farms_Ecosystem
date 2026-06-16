@@ -1,0 +1,33 @@
+name: Autonomous Backlink Matrix Crawler
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Executes autonomously every Sunday at midnight
+  workflow_dispatch: # Allows manual trigger execution anytime
+
+jobs:
+  crawl_and_expand:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code Architecture
+        uses: actions/checkout@v4
+
+      - name: Set up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Ingestion Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Execute Discovery Engine
+        run: python scripts/backlink_crawler.py
+
+      - name: Commit and Push Enriched Data Assets
+        run: |
+          git config --global user.name "Mul Biotech Bot"
+          git config --global user.email "tech-admin@mulbiotech.com"
+          git add data/backlinks_registry.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: updated backlink reference graph [skip ci]" && git push)
