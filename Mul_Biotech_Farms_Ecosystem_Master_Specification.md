@@ -29,7 +29,7 @@ It complements the corporate website rather than replacing it.
 Google / LinkedIn
         │
         ▼
-mulbiotech.com
+mulbiotech.in
         │
         ├── About
         ├── Services
@@ -204,6 +204,20 @@ Target keywords:
 - Digital Agriculture
 - Climate Intelligence
 - Carbon Farming
+- Closed Environment Farming
+- Medicinal Garden
+- Arbhoriculture
+- Mushroom Turnkey Setup
+- Mushroom Setup
+- Project Recovery
+- Agroforestry planning, setup and management
+- Aquaculture
+- Training
+- Capacity building
+- Women empowerment and women entrepreneurs
+- vibrant village program
+- closed loop agriculture
+- 
 
 Include:
 - Open Graph
