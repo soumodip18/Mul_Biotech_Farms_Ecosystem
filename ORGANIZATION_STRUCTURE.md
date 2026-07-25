@@ -240,7 +240,6 @@ Mul Biotech Farms Ecosystems (Umbrella)
 ### Publications & Presentations
 - International Food & Agribusiness Management Association (IFAMA)
 IFAMA Professional Member (Member ID: 79224911; Valid until 14 Feb 2027). Membership provides access to IFAMA conferences, research publications, and professional networking. 
-IFAMA +1
 
 ICT4Ag Research & Knowledge Network
 https://learningnetwork.ictforag.com/collaboration/soumodip-atanu-roy-ndash-soil-carbon-amp-digital-agriculture-systems
@@ -267,7 +266,6 @@ https://mulbiotech.in/agri-gis-dashboard.html
 Aquaculture Dashboard
 https://mulbiotech.in/aquaculture-dashboard.html
 
-
 Knowledge Articles & Technical Documentation
 Wikifarmer technical articles 
 https://wikifarmer.com/library/en/article/carbon-credits-mrv-starts-with-farmers
@@ -279,7 +277,59 @@ Professional Contributions
 Technical documentation on regenerative agriculture and digital MRV
 GIS and climate-tech documentation
 Open-source environmental monitoring resources
-Research and implementation documentation supporting regenerative agriculture, agroforestry, aquaculture, and carbon monitoring.]
+Research and implementation documentation supporting regenerative agriculture, agroforestry, aquaculture, and carbon monitoring.
+
+---
+
+## 🎤 Government Workshops, Technical Outreach & Media Coverage
+
+### 1. Kalimpong District Aquaponics Awareness Workshop
+
+**Date:** 21 June 2025  
+**Venue:** Conference Hall, Treasury Building, Kalimpong, West Bengal
+
+**Organised by:**
+- Fish Farmers' Development Agency (FFDA), Kalimpong
+- Department of Fisheries, Government of West Bengal
+
+**In Association With:**
+- Mul Biotech Farms
+
+**Role:**
+Invited as Technical Expert & Resource Person for the district-level "Workshop cum Awareness Programme on Aquaponics: A Potential Innovative Technology."
+- Delivered technical sessions on aquaponics, integrated farming systems, water conservation, climate-resilient agriculture, and sustainable livelihood models
+- Interacted with district officials, fisheries experts, farmers, PACS representatives, and institutional stakeholders
+- Official government memorandum identifies Soumodip Atanu Roy (Founder & CEO, Mul Biotech Farms) as the invited trainer/resource person
+
+**Official & Media Coverage:**
+- **Official FFDA Memorandum:** Government of West Bengal
+- **The Telegraph:** [Kalimpong raises fish to farm crops – Aquaculture and hydroponics fused](https://www.telegraphindia.com/west-bengal/kalimpong-raises-fish-to-farm-crops-aquaculture-and-hydroponics-fused-prnt/cid/2110452)
+- **The Telegraph ePaper:** 29 June 2025 - https://epaper.telegraphindia.com/
+- **Case Study:** [Kalimpong's Climate-Smart Farming Shift](https://www.matrubharti.com/book/19980808/kalimpongs-climate-smart-farming-shift-by-soumodip-atanu-roy)
+- **LinkedIn Coverage:**
+  - https://www.linkedin.com/posts/soumodiproy_skilldevelopment-pbssd-fisheries-activity-7399327304042258432-Sc4R
+  - https://www.linkedin.com/posts/soumodiproy_aquaponics-climatesmartagriculture-skilldevelopment-activity-7413806831669702657-J-yT
+- **YouTube – Workshop Discussion:** https://youtu.be/dCX_gYpbxqw
+- **YouTube Shorts – District Magistrate T. Balasubramaniam addressing the press:** https://youtube.com/shorts/3Q5ucQxbK7k?feature=share
+
+---
+
+### 2. Bengal Fish Fest 2026 – Murshidabad
+
+**Organised by:**
+- Department of Fisheries, Government of West Bengal
+
+**Role:**
+Technical Demonstration Partner
+- Established aquaponics demonstration stall
+- Conducted technical awareness sessions on regenerative aquaculture, aquaponics, and integrated farming systems for farmers, entrepreneurs, and stakeholders
+
+**Supporting Resources:**
+- **LinkedIn Coverage:**
+  - https://www.linkedin.com/posts/mul-biotech-farms_department-of-fisheries-govt-of-wb-activity-7436710250130583552-Vq7x
+  - https://www.linkedin.com/posts/soumodiproy_aquaponics-regenerativeagriculture-aquaculture-activity-7431650354355683328-pA7H
+- **YouTube – Bengal Fish Fest 2026:** https://youtu.be/EEbyIQgn6P0
+- **Facebook – Department of Fisheries, Government of West Bengal:** Event Coverage
 
 ---
 
@@ -344,9 +394,9 @@ This organization maintains:
 
 ---
 
-**Last Updated:** May 2026  
+**Last Updated:** July 2026  
 **Next Review:** Q3 2026  
-**Canonical URL:** https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ORGANIZATION_STRUCTURE.md
+**Canonical URL:** https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem/blob/main/ORGANIZATION_STRUCTURE.md
 
 ---
 
