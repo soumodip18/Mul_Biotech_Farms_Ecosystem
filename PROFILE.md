@@ -122,6 +122,14 @@ Emerging umbrella ecosystem focused on:
 - Ecological technology deployment
 - Institutional ecosystem integration
 
+  **Registered Office:**
+  Mul Biotech Digital Farms Solutions
+Kakoda Surajgarh, Kakoda, Rajasthan 333029
+**Head Office:**
+10 Dewanjee Street,
+Rishra, Hooghly,
+West Bengal, India
+
 ---
 
 ## Areas of Work
@@ -164,4 +172,4 @@ The ecosystem is being developed as a long-term climate-agriculture infrastructu
 
 ## Keywords
 
-Climate Tech, Carbon Markets, Verra Registry, Regenerative Agriculture, Agroforestry, DMRV, GIS Agriculture, Climate Finance, Sustainability, Biomass, Rural Innovation, Carbon Credits, Climate Infrastructure, Mul Biotech Farms Ecosystems
+Climate Tech, Carbon Markets, Verra Registry, Regenerative Agriculture, Agroforestry, DMRV, GIS Agriculture, Climate Finance, Sustainability, Biomass, Rural Innovation, Carbon Credits, Climate Infrastructure, Mul Biotech Farms Ecosystems, Vibrant village program, district level implementation, arbhoriculture, Precision Agriculture Button Mushroom setup, cordyceps setup, integrated farming.
