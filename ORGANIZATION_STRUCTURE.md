@@ -7,7 +7,7 @@
 ## 🔍 Master Identity
 
 **Organization Name:** Mul Biotech Farms Ecosystems  
-**Alternate Names:** Mul Biotech Farms, Mul Ecosystem  
+**Alternate Names:** Mul Biotech Farms, Mul Ecosystem, Mul Biotechnology
 **Founder & Chairman:** Soumodip Atanu Roy  
 **Entity Type:** Umbrella Innovation Ecosystem  
 **Headquarters:** India  
@@ -241,29 +241,40 @@ Mul Biotech Farms Ecosystems (Umbrella)
 - International Food & Agribusiness Management Association (IFAMA)
 IFAMA Professional Member (Member ID: 79224911; Valid until 14 Feb 2027). Membership provides access to IFAMA conferences, research publications, and professional networking. 
 IFAMA +1
-(If you have an IFAMA conference abstract, poster, or presentation URL, add it under this heading.)
+
 ICT4Ag Research & Knowledge Network
 https://learningnetwork.ictforag.com/collaboration/soumodip-atanu-roy-ndash-soil-carbon-amp-digital-agriculture-systems
 https://learningnetwork.ictforag.com/mentor-detail/NTg%3D
+
 World Economic Forum (WEF)
 WEF Member Profile
 https://my.weforum.org/network/people/001TG00000MMaPyYAL/soumodip-atanu-roy
+
 GitHub Technical Documentation
 Mul Biotech Farms Ecosystem
 https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem
+
 Mul Biotech Farms Wiki
 https://github.com/soumodip18/Mul_Biotech_Farms_Ecosystem.wiki.git
+
 Mul Biotech dMRV Dashboard
 https://github.com/soumodip18/Mul-Biotech-dMRV-dashboard
+
 Technical Dashboards
 Agri GIS Dashboard
 https://mulbiotech.in/agri-gis-dashboard.html
+
 Aquaculture Dashboard
 https://mulbiotech.in/aquaculture-dashboard.html
+
+
 Knowledge Articles & Technical Documentation
-Wikifarmer technical articles (if listed in the audit)
+Wikifarmer technical articles 
+https://wikifarmer.com/library/en/article/carbon-credits-mrv-starts-with-farmers
+
 GitHub Pages documentation
 Digital MRV, GIS, aquaculture, and regenerative agriculture documentation
+
 Professional Contributions
 Technical documentation on regenerative agriculture and digital MRV
 GIS and climate-tech documentation
