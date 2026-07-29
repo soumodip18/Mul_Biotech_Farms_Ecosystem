@@ -156,26 +156,40 @@ A globally recognized ecosystem bridging climate science, agricultural innovatio
 
 ## 📈 Ecosystem Map
 
-```
-Mul Biotech Farms Ecosystems (Umbrella)
+```text
+Mul Biotech Ecosystem (Umbrella)
 │
 ├─ Research & Standards
 │  └─ SequestraBionix Foundation
 │     ├─ Carbon MRV Frameworks
 │     ├─ Agroforestry Methodologies
-│     └─ Climate Adaptation Research
+│     ├─ Climate Adaptation Research
+│     └─ Scientific Publications & Open Standards
 │
-├─ Operational Implementation
+├─ Environmental Consulting & Project Implementation
 │  └─ Mul Biotech Farms Pvt Ltd
-│     ├─ On-ground Agroforestry
-│     ├─ Farmer Networks
+│     ├─ Environmental Consulting
+│     ├─ Agroforestry & Regenerative Agriculture
+│     ├─ Biodiversity & Ecosystem Restoration
+│     ├─ Carbon & Climate Projects
+│     ├─ Farmer & Community Engagement
 │     └─ Bioeconomy Value Chains
 │
-├─ Technology Infrastructure
-│  ├─ DMRV Dashboard
-│  ├─ Agroforestry Intelligence System
-│  ├─ Climate Resilience Platform
-│  └─ Data & Analytics Infrastructure
+├─ Digital Technology & Intelligence
+│  └─ Mul Biotech Digital Farm Solutions
+│     ├─ Digital MRV Systems
+│     ├─ GIS & Remote Sensing
+│     ├─ AI-Powered Environmental Intelligence
+│     ├─ Environmental Dashboards
+│     ├─ Agroforestry Intelligence System
+│     └─ Data & Analytics Infrastructure
+│
+├─ Consumer Brands
+│  └─ Cupiel Perfumes
+│     ├─ Premium Fragrances
+│     ├─ Personal Care Products
+│     ├─ Sustainable Packaging
+│     └─ Lifestyle Brand Development
 │
 ├─ Global Partnerships
 │  ├─ IFAMA Participation
@@ -187,7 +201,8 @@ Mul Biotech Farms Ecosystems (Umbrella)
    ├─ Carbon Credit Generation
    ├─ ESG Data Reporting
    ├─ Government Program Alignment
-   └─ Third-Party Audits (May 2026 Report)
+   └─ Third-Party Audits
+```
 ```
 
 ---
