@@ -50,14 +50,30 @@ Mul Biotech Farms Ecosystems
 - **Type:** Private Corporation / Operating Entity
 - **Focus:** Agroforestry implementation, regenerative farming, bioeconomy
 - **Role in Ecosystem:** Primary operational vehicle for climate-agriculture solutions
-- **Website/Registration:** [To be linked]
-- **Initiatives:** Field implementation, farmer engagement, biomass value chains
+- **Website/Registration:** [https://mulbiotech.in/]
+- **Initiatives:** Environmental consulting, field implementation, farmer engagement, agroforestry, regenerative farming, carbon projects, biodiversity restoration, biomass value chains, and climate resilience initiatives
 
 #### 2. **SequestraBionix Foundation**
 - **Type:** Non-Profit Foundation / Research Organization
 - **Focus:** Carbon sequestration research, sustainability science, climate adaptation
 - **Role in Ecosystem:** Research, impact measurement, standards development
 - **Focus Areas:** MRV frameworks, carbon accounting, ecosystem resilience
+
+  #### 3. **Mul Biotech Digital Farm Solutions**
+- **Type:** MSME Digital Technology Division
+- **Focus:** GIS, remote sensing, AI-powered environmental intelligence, digital MRV, and geospatial solutions
+- **Role in Ecosystem:** Technology and analytics arm supporting environmental consulting, project planning, monitoring, reporting, and decision-making
+- **Website/Registration:** [https://mulbiotech.in/]
+- **Initiatives:** GIS mapping, satellite monitoring, AI-assisted analytics, digital MRV platforms, environmental dashboards, and geospatial decision-support systems
+
+  #### 4. **Cupiel Perfumes**
+- **Type:** Consumer Brand / Fragrance & Personal Care
+- **Focus:** Premium fragrances, personal care products, sustainable branding, and consumer lifestyle solutions
+- **Role in Ecosystem:** Consumer-facing brand driving innovation in fragrance development, brand experience, and sustainable product offerings within the Mul Biotech Farms ecosystem
+- **Website/Registration:** *Under Development*
+- **Initiatives:** Premium perfumes, fragrance research, sustainable packaging, brand development, e-commerce, and lifestyle product innovation
+
+  
 
 ### Level 3: Technology Platforms & Initiatives
 
