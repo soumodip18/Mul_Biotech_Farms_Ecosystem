@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mul Biotech Farms | Scientific Advisory & Agricultural Engineering</title>
+    <meta name="description" content="Independent scientific advisory, biological diagnostics, bankable DPRs, and vendor proposal audits for agtech, aquaponics, and forestry. UNGM Vendor #1127495.">
+    <meta name="keywords" content="Mul Biotech, Agtech Advisory, Aquaponics Advisory, Bankable DPR, Sandalwood Audit, Biofloc Diagnostic, UNGM Agtech">
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        bioDark: '#0b131e',
+                        bioCard: '#131e2e',
+                        bioGreen: '#10b981',
+                        bioAccent: '#0284c7',
+                        bioGold: '#f59e0b'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Schema.org Microdata / JSON-LD for Google & GitHub Rich Indexing -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://mulbiotech.in/#organization",
+          "name": "Mul Biotech Farms",
+          "url": "https://mulbiotech.in",
+          "logo": "https://mulbiotech.in/assets/logo.png",
+          "identifier": "UNGM Vendor #1127495",
+          "knowsAbout": ["Aquaponics", "Agroforestry", "Soil GIS", "dMRV", "Biological Engineering", "Bankable DPR"],
+          "memberOf": [
+            {
+              "@type": "Organization",
+              "name": "United Nations Global Marketplace (UNGM)"
+            },
+            {
+              "@type": "Organization",
+              "name": "GLG Council Advisory"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://mulbiotech.in/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mulbiotech.in/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Scientific Advisory",
+              "item": "https://mulbiotech.in/#services"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Commercial Offering Matrix",
+              "item": "https://mulbiotech.in/#pricing"
+            }
+          ]
+        },
+        {
+          "@type": "Service",
+          "name": "Remote Biological System Diagnostic",
+          "provider": {"@id": "https://mulbiotech.in/#organization"},
+          "offers": {
+            "@type": "Offer",
+            "price": "7500",
+            "priceCurrency": "INR"
+          },
+          "description": "Root-cause biological audit for failing crops, aquaculture tanks, or soil setups."
+        },
+        {
+          "@type": "Service",
+          "name": "Independent Turnkey Vendor Review",
+          "provider": {"@id": "https://mulbiotech.in/#organization"},
+          "offers": {
+            "@type": "Offer",
+            "price": "15000",
+            "priceCurrency": "INR"
+          },
+          "description": "Unbiased biological and engineering audit of high-ticket vendor turnkey proposals."
+        },
+        {
+          "@type": "Service",
+          "name": "Project Feasibility Advisory",
+          "provider": {"@id": "https://mulbiotech.in/#organization"},
+          "offers": {
+            "@type": "Offer",
+            "price": "25000",
+            "priceCurrency": "INR"
+          },
+          "description": "Comprehensive site, soil, climate, and commercial viability assessment for modern agriculture."
+        },
+        {
+          "@type": "Service",
+          "name": "Bankable Technical DPR",
+          "provider": {"@id": "https://mulbiotech.in/#organization"},
+          "offers": {
+            "@type": "Offer",
+            "price": "50000",
+            "priceCurrency": "INR"
+          },
+          "description": "Detailed Project Report designed for AIF, NABARD, Mudra debt financing or equity investment."
+        },
+        {
+          "@type": "Service",
+          "name": "Technical Advisory Retainer",
+          "provider": {"@id": "https://mulbiotech.in/#organization"},
+          "offers": {
+            "@type": "Offer",
+            "price": "15000",
+            "priceCurrency": "INR",
+            "unitText": "MONTH"
+          },
+          "description": "Ongoing remote biological supervision, standard operating procedure oversight, and technical support."
+        }
+      ]
+    }
+    </script>
+</head>
+<body class="bg-bioDark text-slate-200 font-sans antialiased min-h-screen flex flex-col justify-between">
+
+    <!-- Top Navigation -->
+    <header class="sticky top-0 z-50 bg-bioDark/90 backdrop-blur border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+                <div class="w-10 h-10 rounded-lg bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 font-bold text-xl">
+                    <i class="fa-solid fa-microscope"></i>
+                </div>
+                <div>
+                    <span class="text-lg font-bold text-white tracking-wide">Mul Biotech Farms</span>
+                    <span class="hidden sm:inline-block text-xs bg-emerald-950 text-emerald-400 border border-emerald-800 px-2 py-0.5 rounded ml-2">UNGM #1127495</span>
+                </div>
+            </div>
+            
+            <nav class="hidden md:flex items-center space-x-6 text-sm font-medium text-slate-300">
+                <a href="#credentials" class="hover:text-emerald-400 transition">Institutional Authority</a>
+                <a href="#auditor" class="hover:text-emerald-400 transition">Vendor Teardown</a>
+                <a href="#pricing" class="hover:text-emerald-400 transition">Commercial Packages</a>
+                <a href="#case-studies" class="hover:text-emerald-400 transition">District Playbooks</a>
+            </nav>
+
+            <a href="#pricing" class="bg-emerald-600 hover:bg-emerald-500 text-white font-medium text-xs sm:text-sm px-4 py-2 rounded-lg transition shadow-lg shadow-emerald-900/30">
+                Book Diagnostic Audit
+            </a>
+        </div>
+    </header>
+
+    <!-- Semantic Breadcrumb Navigation -->
+    <div class="bg-slate-900/70 border-b border-slate-800 py-2.5">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <nav aria-label="Breadcrumb" class="flex">
+                <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="flex items-center space-x-2 text-xs text-slate-400">
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                        <a itemprop="item" href="https://mulbiotech.in/" class="hover:text-emerald-400">
+                            <i class="fa-solid fa-house mr-1"></i> <span itemprop="name">Home</span>
+                        </a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li class="text-slate-600"><i class="fa-solid fa-chevron-right text-[10px]"></i></li>
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                        <a itemprop="item" href="#services" class="hover:text-emerald-400">
+                            <span itemprop="name">Scientific Advisory</span>
+                        </a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li class="text-slate-600"><i class="fa-solid fa-chevron-right text-[10px]"></i></li>
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="flex items-center">
+                        <span itemprop="name" class="text-emerald-400 font-medium">Commercial Service Matrix</span>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="py-16 md:py-24 relative overflow-hidden bg-gradient-to-b from-slate-900 via-bioDark to-bioDark border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="max-w-3xl">
+                <div class="inline-flex items-center space-x-2 bg-slate-800/80 border border-slate-700 rounded-full px-3 py-1 mb-6 text-xs text-emerald-400">
+                    <span class="flex h-2 w-2 relative">
+                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                      <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+                    </span>
+                    <span>Anti-Hype Agricultural Biological Engineering</span>
+                </div>
+                
+                <h1 class="text-3xl sm:text-5xl font-extrabold text-white tracking-tight leading-tight">
+                    Evidence, Mathematics & Biological Integrity for High-Stakes Agtech.
+                </h1>
+                
+                <p class="mt-4 text-base sm:text-lg text-slate-300 leading-relaxed">
+                    Before committing ₹50 Lakhs to aggressive turnkey equipment vendors or speculative farming setups (Agarwood, Sandalwood, Biofloc RAS, Kesar, High-Density Orchards), retain independent biological audit support.
+                </p>
+
+                <div class="mt-8 flex flex-wrap gap-4">
+                    <a href="#pricing" class="bg-emerald-600 hover:bg-emerald-500 text-white font-semibold px-6 py-3 rounded-xl transition text-sm flex items-center shadow-lg shadow-emerald-950">
+                        <i class="fa-solid fa-file-signature mr-2"></i> Audit My Turnkey Proposal
+                    </a>
+                    <a href="#auditor" class="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 font-semibold px-6 py-3 rounded-xl transition text-sm flex items-center">
+                        <i class="fa-solid fa-calculator mr-2"></i> Vendor Quote Risk Estimator
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Authority & Credentials Strip -->
+    <section id="credentials" class="bg-slate-900/90 py-8 border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-center text-xs font-semibold uppercase tracking-wider text-slate-400 mb-6">
+                Institutional & Government Clearing Footprint
+            </p>
+            <div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
+                <div class="p-4 bg-bioCard rounded-xl border border-slate-800/80">
+                    <div class="text-emerald-400 font-bold text-lg">UNGM #1127495</div>
+                    <div class="text-slate-400 text-xs mt-1">UN Global Marketplace Vendor</div>
+                </div>
+                <div class="p-4 bg-bioCard rounded-xl border border-slate-800/80">
+                    <div class="text-emerald-400 font-bold text-lg">GLG Cleared</div>
+                    <div class="text-slate-400 text-xs mt-1">Gerson Lehrman Group Advisory</div>
+                </div>
+                <div class="p-4 bg-bioCard rounded-xl border border-slate-800/80">
+                    <div class="text-emerald-400 font-bold text-lg">496,000+</div>
+                    <div class="text-slate-400 text-xs mt-1">YouTube Technical Telemetry</div>
+                </div>
+                <div class="p-4 bg-bioCard rounded-xl border border-slate-800/80">
+                    <div class="text-emerald-400 font-bold text-lg">30+ Papers</div>
+                    <div class="text-slate-400 text-xs mt-1">Technical & Financial Teardowns</div>
+                </div>
+                <div class="p-4 bg-bioCard rounded-xl border border-slate-800/80 col-span-2 md:col-span-1">
+                    <div class="text-emerald-400 font-bold text-lg">District Partner</div>
+                    <div class="text-slate-400 text-xs mt-1">Kalimpong, Murshidabad, VVP-II</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Productized Entry Offers (Commercial Matrix) -->
+    <section id="pricing" class="py-16 md:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <h2 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">Standardized Entry Services</h2>
+                <p class="text-3xl font-bold text-white mt-2">Productized Scientific Consulting</p>
+                <p class="text-slate-400 text-sm mt-3">Transparent, un-discountable starting pricing for agricultural diagnostics, feasibility mandates, and institutional DPRs.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                
+                <!-- Package 1 -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6 flex flex-col justify-between hover:border-emerald-500/50 transition">
+                    <div>
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Service 01</div>
+                        <h3 class="text-lg font-bold text-white leading-snug">Remote Biological Diagnostic</h3>
+                        <div class="mt-4 text-2xl font-black text-white">₹7,500 <span class="text-xs text-slate-400 font-normal">/ fixed</span></div>
+                        <p class="text-xs text-slate-300 mt-3 italic">"My crop, biofloc tank, RAS system, or soil biomass setup is failing. Why?"</p>
+                        
+                        <ul class="mt-6 space-y-2.5 text-xs text-slate-300">
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> 60-Min Deep Root-Cause Audit</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Water/Soil Chemistry Verification</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Pathogen & Nutrient Action Plan</li>
+                        </ul>
+                    </div>
+                    <button onclick="openBookingModal('Remote Biological Diagnostic', '₹7,500')" class="mt-8 w-full bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white font-semibold py-2.5 rounded-xl text-xs transition border border-slate-700 hover:border-emerald-500">
+                        Book Diagnostic Audit
+                    </button>
+                </div>
+
+                <!-- Package 2 -->
+                <div class="bg-bioCard border-2 border-emerald-500/80 rounded-2xl p-6 flex flex-col justify-between relative shadow-xl shadow-emerald-950/20">
+                    <div class="absolute -top-3 left-1/2 -translate-x-1/2 bg-emerald-500 text-slate-950 text-[10px] font-black uppercase tracking-wider px-3 py-0.5 rounded-full">
+                        Investor Favorite
+                    </div>
+                    <div>
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Service 02</div>
+                        <h3 class="text-lg font-bold text-white leading-snug">Independent Vendor Review</h3>
+                        <div class="mt-4 text-2xl font-black text-white">₹15,000 <span class="text-xs text-slate-400 font-normal">/ fixed</span></div>
+                        <p class="text-xs text-slate-300 mt-3 italic">"A vendor quoted ₹50 Lakhs for a turnkey farm setup. Is it realistic?"</p>
+                        
+                        <ul class="mt-6 space-y-2.5 text-xs text-slate-300">
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Equipment Over-pricing Audit</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Biological Math & Yield Verification</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Capex/Opex Inflation Teardown</li>
+                        </ul>
+                    </div>
+                    <button onclick="openBookingModal('Independent Vendor Proposal Review', '₹15,000')" class="mt-8 w-full bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2.5 rounded-xl text-xs transition shadow-md">
+                        Audit My Turnkey Quote
+                    </button>
+                </div>
+
+                <!-- Package 3 -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6 flex flex-col justify-between hover:border-emerald-500/50 transition">
+                    <div>
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Service 03</div>
+                        <h3 class="text-lg font-bold text-white leading-snug">Project Feasibility Advisory</h3>
+                        <div class="mt-4 text-2xl font-black text-white">₹25,000 <span class="text-xs text-slate-400 font-normal">/ fixed</span></div>
+                        <p class="text-xs text-slate-300 mt-3 italic">"I want to invest capital in high-density farming. Will my site work?"</p>
+                        
+                        <ul class="mt-6 space-y-2.5 text-xs text-slate-300">
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Soil GIS & Micro-Climate Mapping</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Commercial Market Linkage Check</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Site Technical Viability Report</li>
+                        </ul>
+                    </div>
+                    <button onclick="openBookingModal('Project Feasibility Advisory', '₹25,000')" class="mt-8 w-full bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white font-semibold py-2.5 rounded-xl text-xs transition border border-slate-700 hover:border-emerald-500">
+                        Request Feasibility Study
+                    </button>
+                </div>
+
+                <!-- Package 4 -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6 flex flex-col justify-between hover:border-emerald-500/50 transition">
+                    <div>
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Service 04</div>
+                        <h3 class="text-lg font-bold text-white leading-snug">Bankable Technical DPR</h3>
+                        <div class="mt-4 text-2xl font-black text-white">₹50,000 <span class="text-xs text-slate-400 font-normal">/ project</span></div>
+                        <p class="text-xs text-slate-300 mt-3 italic">"I need bank debt (AIF, NABARD, Mudra) or institutional equity."</p>
+                        
+                        <ul class="mt-6 space-y-2.5 text-xs text-slate-300">
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Institutional Bankable DPR Format</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> 10-Year Financial Modeling</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Biological Risk & Engineering CAD</li>
+                        </ul>
+                    </div>
+                    <button onclick="openBookingModal('Bankable Technical DPR', '₹50,000')" class="mt-8 w-full bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white font-semibold py-2.5 rounded-xl text-xs transition border border-slate-700 hover:border-emerald-500">
+                        Order Bankable DPR
+                    </button>
+                </div>
+
+                <!-- Package 5 -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6 flex flex-col justify-between hover:border-emerald-500/50 transition">
+                    <div>
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Service 05</div>
+                        <h3 class="text-lg font-bold text-white leading-snug">Technical Advisory Retainer</h3>
+                        <div class="mt-4 text-2xl font-black text-white">₹15,000 <span class="text-xs text-slate-400 font-normal">/ month</span></div>
+                        <p class="text-xs text-slate-300 mt-3 italic">"I need ongoing remote technical and biological oversight for my farm."</p>
+                        
+                        <ul class="mt-6 space-y-2.5 text-xs text-slate-300">
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Weekly Telemetry & Water Logs</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> SOP Oversight for Farm Workers</li>
+                            <li class="flex items-start"><i class="fa-solid fa-check text-emerald-400 mt-0.5 mr-2"></i> Emergency Disease Escalation Call</li>
+                        </ul>
+                    </div>
+                    <button onclick="openBookingModal('Technical Advisory Retainer', '₹15,000/mo')" class="mt-8 w-full bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white font-semibold py-2.5 rounded-xl text-xs transition border border-slate-700 hover:border-emerald-500">
+                        Subscribe to Support
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Anti-Hype Proposal Teardown Estimator -->
+    <section id="auditor" class="py-16 bg-slate-900 border-t border-b border-slate-800">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="bg-bioCard border border-slate-700 rounded-3xl p-6 sm:p-10 shadow-2xl">
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-6 border-b border-slate-800 pb-8">
+                    <div>
+                        <span class="text-xs uppercase tracking-widest text-emerald-400 font-bold">Interactive Tool</span>
+                        <h3 class="text-2xl font-bold text-white mt-1">"Hype vs. Math" Turnkey Quote Risk Calculator</h3>
+                        <p class="text-xs text-slate-400 mt-1">Estimate potential capital saved before signing turnkey contracts with commercial vendors.</p>
+                    </div>
+                    <div class="bg-slate-900 px-4 py-2 rounded-xl border border-slate-800 text-right">
+                        <span class="text-[10px] text-slate-500 uppercase block">Audit Cost</span>
+                        <span class="text-lg font-bold text-emerald-400">₹15,000</span>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                    <div class="space-y-4">
+                        <div>
+                            <label class="block text-xs font-semibold text-slate-300 mb-1">Target Crop / Farming System</label>
+                            <select id="calcSector" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500">
+                                <option value="Agarwood / Sandalwood">Agarwood / Sandalwood Plantation</option>
+                                <option value="Biofloc / RAS Aquaculture">Biofloc / RAS Aquaculture Tank Setup</option>
+                                <option value="Indoor Hydroponics / Kesar">Indoor Hydroponics / Kesar Saffron</option>
+                                <option value="High-Density Fruit Orchards">High-Density Fruit Orchards</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-semibold text-slate-300 mb-1">Vendor Quote Amount (₹ Lakhs)</label>
+                            <input type="number" id="calcQuote" value="35" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500" placeholder="e.g. 50">
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-semibold text-slate-300 mb-1">Vendor Promised Annual Return (%)</label>
+                            <input type="number" id="calcReturn" value="60" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500" placeholder="e.g. 80%">
+                        </div>
+
+                        <button onclick="calculateRisk()" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2.5 rounded-xl text-xs transition">
+                            Run Biological Risk Assessment
+                        </button>
+                    </div>
+
+                    <div class="bg-slate-900/90 border border-slate-800 rounded-2xl p-6 flex flex-col justify-between">
+                        <div>
+                            <div class="text-xs text-slate-400 uppercase tracking-wider">Audit Diagnostic Result</div>
+                            <div id="riskScore" class="text-xl font-bold text-amber-400 mt-2">High Biological Risk Detected</div>
+                            <p id="riskDescription" class="text-xs text-slate-300 mt-2 leading-relaxed">
+                                Turnkey quotes promising &gt;40% returns in this sector typically inflate equipment costs by 35-50% while masking high operational bio-security hazards.
+                            </p>
+                        </div>
+
+                        <div class="border-t border-slate-800 pt-4 mt-6">
+                            <div class="flex justify-between items-center text-xs">
+                                <span class="text-slate-400">Estimated Capital at Risk:</span>
+                                <span id="capRisk" class="font-bold text-white text-sm">₹14.00 Lakhs</span>
+                            </div>
+                            <button onclick="openBookingModal('Independent Vendor Proposal Review', '₹15,000')" class="mt-4 w-full bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white font-medium py-2 rounded-lg text-xs transition">
+                                Request ₹15,000 Independent Audit
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- B2G & District Convergence Playbook Evidence -->
+    <section id="case-studies" class="py-16 md:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-3xl mb-12">
+                <h2 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">District & Institutional Track Record</h2>
+                <h3 class="text-3xl font-bold text-white mt-2">Zero-Cost Organic Reach & Governance Evidence</h3>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Kalimpong Card -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6">
+                    <div class="flex items-center space-x-2 text-xs text-emerald-400 font-bold mb-3">
+                        <i class="fa-solid fa-landmark"></i> <span>Kalimpong District & FFDA</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white mb-2">Aquaponics Governance Workshop</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Partnered with District Administration for institutional training. Generated 133 high-intent attendees, 8+ major media features (The Telegraph, Vertical Farm Daily), and over 80,000 organic media impressions.
+                    </p>
+                    <div class="mt-4 pt-4 border-t border-slate-800 flex justify-between items-center text-[11px] text-slate-400">
+                        <span>Ad Spend: ₹0</span>
+                        <span class="text-emerald-400 font-semibold">80k+ Reach</span>
+                    </div>
+                </div>
+
+                <!-- Murshidabad Card -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6">
+                    <div class="flex items-center space-x-2 text-xs text-emerald-400 font-bold mb-3">
+                        <i class="fa-solid fa-fish"></i> <span>Bengal Fish Fest</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white mb-2">State-Sponsored Technical Keynote</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Delivered state-level keynotes reaching 390 targeted stakeholders including government officers, commercial aquaculture farmers, and institutional investors without out-of-pocket marketing cost.
+                    </p>
+                    <div class="mt-4 pt-4 border-t border-slate-800 flex justify-between items-center text-[11px] text-slate-400">
+                        <span>Ad Spend: ₹0</span>
+                        <span class="text-emerald-400 font-semibold">390 Qualified Leads</span>
+                    </div>
+                </div>
+
+                <!-- South Dinajpur Card -->
+                <div class="bg-bioCard border border-slate-800 rounded-2xl p-6">
+                    <div class="flex items-center space-x-2 text-xs text-emerald-400 font-bold mb-3">
+                        <i class="fa-solid fa-mountain-sun"></i> <span>VVP-II South Dinajpur</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white mb-2">Vibrant Villages Programme (DNFA)</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Executing Departmental Non-Financial Approval (DNFA) routes for border district capacity building, establishing regional authority and inbound entrepreneur retainers.
+                    </p>
+                    <div class="mt-4 pt-4 border-t border-slate-800 flex justify-between items-center text-[11px] text-slate-400">
+                        <span>Route: DNFA</span>
+                        <span class="text-emerald-400 font-semibold">B2G Convergence</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-950 border-t border-slate-800 py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-6">
+                <div>
+                    <span class="text-lg font-bold text-white">Mul Biotech Farms</span>
+                    <p class="text-xs text-slate-400 mt-1">Scientific Advisory, Biological Diagnostics & Bankable Project Reports.</p>
+                    <p class="text-xs text-slate-500 mt-0.5">UNGM Vendor ID: #1127495 | GLG Advisory Clearing</p>
+                </div>
+                <div class="flex space-x-4 text-xs text-slate-400">
+                    <a href="https://github.com/mulbiotech" class="hover:text-emerald-400"><i class="fa-brands fa-github text-lg"></i></a>
+                    <a href="https://youtube.com" class="hover:text-emerald-400"><i class="fa-brands fa-youtube text-lg"></i></a>
+                    <a href="https://linkedin.com" class="hover:text-emerald-400"><i class="fa-brands fa-linkedin text-lg"></i></a>
+                </div>
+            </div>
+            <div class="mt-8 pt-6 border-t border-slate-900 text-center text-[11px] text-slate-400">
+                &copy; Mul Biotech Farms. All rights reserved. Zero-Ad Organic Commercial Engine.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Intake Modal -->
+    <div id="bookingModal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="bg-bioCard border border-slate-700 rounded-2xl max-w-lg w-full p-6 relative">
+            <button onclick="closeBookingModal()" class="absolute top-4 right-4 text-slate-400 hover:text-white text-sm">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            
+            <h3 class="text-xl font-bold text-white" id="modalTitle">Book Service</h3>
+            <p class="text-xs text-emerald-400 mt-1" id="modalPrice">Pricing</p>
+
+            <form class="mt-6 space-y-4" onsubmit="handleModalSubmit(event)">
+                <div>
+                    <label class="block text-xs text-slate-300 mb-1">Full Name / Entity</label>
+                    <input type="text" required class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-emerald-500" placeholder="e.g. Dr. A. Roy / GreenValley Agri LLP">
+                </div>
+                <div>
+                    <label class="block text-xs text-slate-300 mb-1">WhatsApp / Contact Phone</label>
+                    <input type="tel" required class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-emerald-500" placeholder="+91 9876543210">
+                </div>
+                <div>
+                    <label class="block text-xs text-slate-300 mb-1">Project Sector / Issue Overview</label>
+                    <textarea rows="3" required class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-emerald-500" placeholder="Briefly describe your farm location, crop/fish species, or quote details..."></textarea>
+                </div>
+                <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2.5 rounded-lg text-xs transition">
+                    Submit Diagnostic Request
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function openBookingModal(title, price) {
+            document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalPrice').innerText = 'Starting Price: ' + price;
+            document.getElementById('bookingModal').classList.remove('hidden');
+        }
+
+        function closeBookingModal() {
+            document.getElementById('bookingModal').classList.add('hidden');
+        }
+
+        function handleModalSubmit(e) {
+            e.preventDefault();
+            alert('Diagnostic intake request received! A scientific advisor will contact you within 4 hours via WhatsApp.');
+            closeBookingModal();
+        }
+
+        function calculateRisk() {
+            const quote = parseFloat(document.getElementById('calcQuote').value) || 0;
+            const returns = parseFloat(document.getElementById('calcReturn').value) || 0;
+            
+            const atRisk = (quote * 0.40).toFixed(2);
+            document.getElementById('capRisk').innerText = '₹' + atRisk + ' Lakhs';
+
+            if (returns > 40) {
+                document.getElementById('riskScore').innerText = 'Critical Biological/Financial Risk';
+                document.getElementById('riskScore').className = 'text-xl font-bold text-red-400 mt-2';
+                document.getElementById('riskDescription').innerText = 'Promised returns >40% typically indicate un-verified biological math or non-viable density assumptions. Independent audit strongly recommended.';
+            } else {
+                document.getElementById('riskScore').innerText = 'Moderate Risk - Engineering Review Needed';
+                document.getElementById('riskScore').className = 'text-xl font-bold text-amber-400 mt-2';
+                document.getElementById('riskDescription').innerText = 'Vendor equipment prices require line-item comparison against standard industrial supply rates.';
+            }
+        }
+    </script>
+</body>
+</html>
