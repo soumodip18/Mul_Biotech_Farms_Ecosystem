@@ -574,3 +574,345 @@ As an independent organization within the Mul Biotech Ecosystem, Cupiel contribu
 **Status:** Under Development
 
 **Last Updated:** July 2026
+
+
+# Mul Biotech Farms — Consumer Fragrance & Lifestyle Brand Architecture
+
+## Brand Architecture
+
+...
+
+# Mul Biotech Farms — Consumer Fragrance & Lifestyle Brand Architecture
+
+## Brand Architecture
+
+**Mul Biotech Farms Private Limited** establishes and develops the **Consumer Products & Lifestyle** sector as part of its broader business structure.
+
+Within this sector, **Cupiel Perfumes** operates as the dedicated consumer-facing fragrance and lifestyle brand.
+
+The architecture is designed to maintain a clear distinction between the **corporate organization** and the **consumer brand**, while allowing Mul Biotech Farms to build long-term ownership, intellectual property, commercial infrastructure, and value within the sector.
+
+```text
+MUL BIOTECH FARMS PRIVATE LIMITED
+│
+│  Corporate / Ecosystem Company
+│
+└── Consumer Products & Lifestyle
+    │
+    └── CUPIEL
+        │
+        ├── Fine Fragrance
+        │   ├── Original Cupiel Blends
+        │   │   └── OG Series
+        │   │
+        │   └── Inspired Fragrance Collection
+        │       └── F Series
+        │
+        ├── Attars
+        │   └── A Series
+        │
+        ├── Perfume Oils
+        │
+        └── Future Lifestyle Products
+
+
+---
+
+1. Mul Biotech Farms
+
+Mul Biotech Farms Private Limited
+
+Mul Biotech Farms serves as the corporate and strategic foundation of the sector.
+
+Its role includes:
+
+Strategic ownership and governance
+
+Business development
+
+Product and market development
+
+Intellectual property development
+
+Commercial infrastructure
+
+Brand portfolio development
+
+Investment and partnership development
+
+Long-term value creation
+
+
+The corporate identity should remain distinct from the consumer-facing fragrance identity.
+
+
+---
+
+2. Consumer Products & Lifestyle Sector
+
+The Consumer Products & Lifestyle sector is the business vertical through which Mul Biotech Farms develops and commercializes consumer-oriented products.
+
+Mul Biotech Farms Private Limited
+                │
+                ▼
+     Consumer Products & Lifestyle
+
+This structure provides a scalable platform for developing consumer brands while allowing each brand to maintain its own market positioning.
+
+
+---
+
+3. Cupiel
+
+CUPIEL
+
+Cupiel is the flagship consumer-facing fragrance and lifestyle brand within the Consumer Products & Lifestyle sector.
+
+Its primary role is to develop, market, and commercialize:
+
+Fine fragrances
+
+Extrait de Parfums
+
+Inspired fragrance collections
+
+Concentrated attars
+
+Perfume oils
+
+Future fragrance and lifestyle products
+
+
+The consumer should primarily experience Cupiel as an independent fragrance house, while its corporate relationship with Mul Biotech Farms remains clearly established where appropriate.
+
+
+---
+
+4. Cupiel Product Architecture
+
+Cupiel's current product architecture consists of three principal fragrance collections.
+
+Fine Fragrance
+
+Original Cupiel Blends — OG Series
+
+Proprietary Cupiel fragrance creations developed as original compositions.
+
+CUPIEL
+└── Fine Fragrance
+    └── Original Cupiel Blends
+        └── OG Series
+
+Inspired Fragrance
+
+Inspired Fragrance Collection — F Series
+
+Cupiel interpretations of established global olfactory directions.
+
+CUPIEL
+└── Fine Fragrance
+    └── Inspired Fragrance Collection
+        └── F Series
+
+Attars
+
+Attar Series — A Series
+
+Cupiel's concentrated, alcohol-free perfume-oil collection.
+
+CUPIEL
+└── Attars
+    └── A Series
+
+
+---
+
+5. Future Brand Expansion
+
+The architecture is intentionally designed to accommodate future expansion without changing the fundamental corporate structure.
+
+Potential future categories include:
+
+Perfume Oils
+
+Body Fragrance
+
+Personal Care
+
+Lifestyle Products
+
+Premium Gift Collections
+
+Botanical Fragrance Products
+
+Limited Editions
+
+Other complementary consumer products
+
+
+These products can be developed under Cupiel where they strengthen the brand's positioning and customer proposition.
+
+CUPIEL
+│
+├── Fine Fragrance
+├── Attars
+├── Perfume Oils
+├── Body Fragrance
+├── Personal Care
+├── Lifestyle Products
+└── Future Consumer Categories
+
+
+---
+
+6. Corporate-to-Consumer Relationship
+
+The relationship should be represented as:
+
+Mul Biotech Farms Private Limited
+        │
+        │ Corporate / Strategic Platform
+        ▼
+Consumer Products & Lifestyle
+        │
+        │ Brand Development
+        ▼
+      CUPIEL
+        │
+        │ Consumer Products
+        ▼
+      Customers
+
+This prevents the corporate name from becoming unnecessarily dominant in consumer communications while preserving the strategic connection between the two.
+
+
+---
+
+7. Brand Endorsement
+
+The preferred consumer-facing hierarchy is:
+
+> CUPIEL
+Fragrance & Lifestyle
+
+
+
+Where corporate attribution is required or strategically useful:
+
+> A consumer brand of Mul Biotech Farms Private Limited
+
+
+
+Alternatively, ecosystem-level communication may use:
+
+> Part of the Mul Biotech Ecosystem
+
+
+
+The exact endorsement should be selected according to the communication context, legal requirements, and brand strategy.
+
+
+---
+
+8. Ownership & Value Architecture
+
+The long-term structure is:
+
+MUL BIOTECH FARMS PRIVATE LIMITED
+│
+├── Corporate Infrastructure
+├── Strategic Development
+├── Intellectual Property
+├── Product Development
+├── Commercial Infrastructure
+└── Brand Portfolio
+        │
+        ▼
+      CUPIEL
+        │
+        ├── Brand Equity
+        ├── Product Portfolio
+        ├── Customer Relationships
+        ├── Distribution
+        ├── Revenue
+        └── Market Expansion
+
+This allows Mul Biotech Farms to build enterprise value at both the corporate and consumer-brand levels.
+
+
+---
+
+9. Strategic Position
+
+The sector should be understood as:
+
+Mul Biotech Farms → builds the business platform
+
+Consumer Products & Lifestyle → defines the sector
+
+Cupiel → builds the consumer brand
+
+Cupiel Products → generate consumer revenue and brand equity
+
+The architecture therefore separates:
+
+Corporate identity
+
+Sector identity
+
+Consumer brand identity
+
+Product identity
+
+
+while keeping them strategically connected.
+
+
+---
+
+Final Architecture
+
+╔══════════════════════════════════════════════╗
+║          MUL BIOTECH FARMS                   ║
+║          PRIVATE LIMITED                     ║
+║                                              ║
+║       CORPORATE / STRATEGIC PLATFORM         ║
+╚══════════════════════════════╤═══════════════╝
+                               │
+                               ▼
+╔══════════════════════════════════════════════╗
+║       CONSUMER PRODUCTS & LIFESTYLE          ║
+║                 SECTOR                       ║
+╚══════════════════════════════╤═══════════════╝
+                               │
+                               ▼
+╔══════════════════════════════════════════════╗
+║                    CUPIEL                    ║
+║                                              ║
+║       CONSUMER FRAGRANCE & LIFESTYLE        ║
+║                   BRAND                      ║
+╚══════════════════════════════╤═══════════════╝
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+       ORIGINAL BLENDS    INSPIRED          ATTARS
+          OG SERIES       F SERIES          A SERIES
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                               ▼
+                    FUTURE CONSUMER PRODUCTS
+                               │
+                               ▼
+                         GLOBAL MARKETS
+
+Strategic Principle
+
+> Mul Biotech Farms builds the platform.
+Cupiel builds the consumer brand.
+The products build revenue, brand equity, and downstream value.
+
+
+
+This architecture establishes Mul Biotech Farms Private Limited as the company behind the consumer fragrance sector, while giving Cupiel the independence required to develop into a premium international fragrance and lifestyle brand.
